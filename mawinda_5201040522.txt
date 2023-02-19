@@ -5,7 +5,7 @@ ans: A software process model is a structured sets of activities or a mechanism 
 
 Q2. Compare and contrast the waterfall and the agile software process model?
 
-Ans: waterfall and agile software process model have similarities and deffrences. The similarites are ;
+Ans: waterfall and agile software process model have similarities and diffrences. The similarities are ;
 They both incorprate the common aspects of the lifecycle phases which inludes; design and implementation, requirment specification, validation and evolution.
 With the differences, waterfall it si difficult to makes changes when the project is underway, but the agile changes can be done to suit customer demand at anytime. waterfall comes with lot if documentation making the process slow but agile comes with less documentation making it fast. waterfall is mostly prefare by large companies while agile is mostly prefare by small companies like . waterfall is delivers an end product that maches initial specifications while agile delivers continuously working software to clients.
 The key difference between the two is that waterfall breaks down software process into distinct phases that flows into each other while agile advocate iterative development cycle in which multiple lifecycle phases can run in paralle.
@@ -35,7 +35,7 @@ this is a process that is used to deligate activites and responsibilities inside
 
 How RUP differ from software development process?
 
-Software development processes are used by software developers to help them structure and develop an information system while Rational Unified Process is a software development approach that is used mainly in web application development. It has the following phases inception, elaboration, construction and transition.
+Software development processes are used by software developers to help them structure and develop an information system while Rational Unified Process is a software development approach that is used mainly in web application development.
 
 what are the key phases and activites involved in RUP?
 the main phases are : 
@@ -44,7 +44,7 @@ ii. elaboration
 iii. construction 
 iv. transition
 
-the activities of the process includes :
+The activities of the process includes :
 
 Inception 
 Communication and planning are the main ones.
